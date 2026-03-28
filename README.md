@@ -93,8 +93,3 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 > _"First, solve the problem. Then, write the code."_
 
 ---
-
-<p align="center">
-  ⭐ Se gostou de algum projecto, uma estrela é sempre bem-vinda<br/>
-  🤝 Aberto a colaborações, ideias e projectos interessantes
-</p>
