@@ -78,12 +78,12 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=flixgamerd&show_icons=true&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&bg_color=0d1117&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flixgamerd&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flixgamerd&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=flixgamerd&theme=github-dark-blue&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flixgamerd&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flixgamerd&theme=github_dark" width="49%" />
 </p>
 
 ---
