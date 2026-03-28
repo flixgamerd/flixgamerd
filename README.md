@@ -77,7 +77,7 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
-— John Johnson
+*"Talk is cheap, show Me the code."*
+— Linus Torvalds
 
 </div>
