@@ -21,8 +21,8 @@ Quando não estou a escrever código backend, estou provavelmente a flashar firm
 
 - 🎯 Foco actual: **Backend com Node.js/TypeScript** para 2026
 - 🔭 A trabalhar em: **[usina-monitor](https://github.com/flixgamerd/usina-monitor)** — sistema de monitoramento industrial
-- 🌱 A estudar: **Fastify · Prisma · Zod · JWT · Arquitectura de sistemas**
-- 💬 Pergunte-me sobre: **REST APIs · PostgreSQL · MongoDB · Express · Middlewares**
+- 🌱 A estudar: **Fastify · Prisma · Zod · JWT · Express · Docker · Arquitectura de sistemas**
+- ⚡ Em prática: **REST APIs · PostgreSQL · MongoDB ·  Middlewares**
 
 ---
 
@@ -31,10 +31,6 @@ Quando não estou a escrever código backend, estou provavelmente a flashar firm
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,7 +45,6 @@ Quando não estou a escrever código backend, estou provavelmente a flashar firm
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
@@ -90,6 +85,6 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 
 ## 💭 Filosofia
 
-> _"First, solve the problem. Then, write the code."_
+> _"Talk is cheap, show Me the code. - Linus Torvalds"_
 
 ---
